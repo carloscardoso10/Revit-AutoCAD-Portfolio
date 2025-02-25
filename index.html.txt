@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Revit & AutoCAD Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Revit & AutoCAD Portfolio</h1>
+        <nav>
+            <ul>
+                <li><a href="#automation">Automation & Macros</a></li>
+                <li><a href="#dynamic-blocks">Dynamic Blocks</a></li>
+                <li><a href="#mep">Electrical & MEP Drawings</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="automation">
+        <h2>AutoCAD Automation & Macros</h2>
+        <video controls>
+            <source src="AutoCAD Automation.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+        <p>Showcasing automation techniques in AutoCAD, including script-based modifications.</p>
+    </section>
+
+    <section id="dynamic-blocks">
+        <h2>AutoCAD Dynamic Blocks</h2>
+        <video controls>
+            <source src="AutoCAD dynamic blocks 01.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+        <p>Demonstrating the use of dynamic blocks for efficient drafting.</p>
+    </section>
+
+    <section id="mep">
+        <h2>Electrical & MEP Drawings</h2>
+        <img src="Electrical Schematics.jpg" alt="Electrical Schematics">
+        <img src="Containment.jpg" alt="Containment Design">
+        <p>Examples of MEP drafting expertise.</p>
+    </section>
+
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: [Your Email]</p>
+        <p>LinkedIn: <a href="[Your LinkedIn]">Connect here</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Revit & AutoCAD Portfolio</p>
+    </footer>
+</body>
+</html>
